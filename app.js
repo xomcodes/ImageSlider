@@ -4,7 +4,7 @@ const sliderImages = document.querySelector('.slider-images');
 const nextbtn = document.querySelector('#nextbtn');
 const prevbtn = document.querySelector('#prevbtn');
 const myImages = document.querySelector('.my-images')
-const images = ['img3.jpg', 'img4.jpg', 'img5.jpg', 'img6.jpg', 'img7.jpg'];
+const images = ['img3.jpg', 'img4.jpg', 'img5.jpg', 'img6.jpg', 'img8.jpg'];
 
 let count = 0;
 
